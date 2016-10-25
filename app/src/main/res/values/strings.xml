@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">cs477_program_1</string>
+
+    <string-array name="question_type_array">
+        <item>Hex to Decimal</item>
+        <item>Decimal to Unsigned Hex</item>
+        <item>Decimal to Signed Hex</item>
+    </string-array>
+
+    <string-array name="bit_size_array">
+        <item>8 bits</item>
+    </string-array>
+
+    <string-array name="hex_values_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+    </string-array>
+
+
+    <color name="red">#E50000</color>
+    <color name="green">#329932</color>
+
+
+</resources>
